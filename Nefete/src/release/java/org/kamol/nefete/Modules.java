@@ -1,4 +1,4 @@
-package com.jakewharton.nefete;
+package org.kamol.nefete;
 
 import org.kamol.nefete.NefeteApp;
 import org.kamol.nefete.NefeteModule;

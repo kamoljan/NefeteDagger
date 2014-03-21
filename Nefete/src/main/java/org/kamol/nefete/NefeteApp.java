@@ -52,6 +52,4 @@ public class NefeteApp extends Application {
   public static NefeteApp get(Context context) {
     return (NefeteApp) context.getApplicationContext();
   }
-
-
 }
